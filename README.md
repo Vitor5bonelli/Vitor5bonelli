@@ -1,6 +1,5 @@
-<div style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
-![](https://media.tenor.com/qYaN3FJIBzsAAAAC/3d-pinball-space-cadet.gif)
-</div>
+<img src="https://media.tenor.com/qYaN3FJIBzsAAAAC/3d-pinball-space-cadet.gif" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+
 # Wadduppppppp 👁️
 ---
 My name is **Vitor Bonelli**!
