@@ -1,13 +1,11 @@
 <img src="https://media.tenor.com/qYaN3FJIBzsAAAAC/3d-pinball-space-cadet.gif" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 # Wadduppppppp 👁️
----
 My name is **Vitor Bonelli**!
 I'm a begginer software developer from Brasil :brazil:
 Currently studying at `IFSP-SCL` 🇧🇷
 
 # Technologies & Tools 🔧  
----
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=yellow) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=yellow)
 
 ![](https://img.shields.io/badge/Lang-Python-Informational?style=flat&logo=python&logoColor=white&color=yellow)  ![](https://img.shields.io/badge/Lang-C-Informational?style=flat&logo=c&logoColor=white&color=yellow)
