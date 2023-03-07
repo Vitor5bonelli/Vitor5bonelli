@@ -4,7 +4,7 @@
 
 My name is **Vitor Bonelli**!                          <br>
 I'm a begginer software developer from Brasil :brazil: <br>
-Currently studying at `IFSP-SCL` 🇧🇷                    <br>
+Currently studying at `IFSP-SCL`                       <br>
 
 # Technologies & Tools 🔧  
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=yellow) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=yellow)
